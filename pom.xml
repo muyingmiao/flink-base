@@ -14,7 +14,7 @@
         <encoding>UTF-8</encoding>
         <scala.version>2.11.2</scala.version>
         <scala.compat.version>2.11</scala.compat.version>
-        <hadoop.version>2.6.0</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
         <flink.version>1.6.0</flink.version>
     </properties>
 
